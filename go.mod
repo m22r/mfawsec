@@ -3,7 +3,7 @@ module github.com/m22r/mfawsec
 go 1.12
 
 require (
-	github.com/aws/aws-sdk-go v1.44.122
+	github.com/aws/aws-sdk-go v1.44.124
 	github.com/coreos/go-etcd v2.0.0+incompatible // indirect
 	github.com/sirupsen/logrus v1.4.2
 	github.com/smartystreets/goconvey v1.6.4 // indirect
