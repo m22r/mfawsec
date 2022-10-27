@@ -1,6 +1,6 @@
 module github.com/m22r/mfawsec
 
-go 1.12
+go 1.19
 
 require (
 	github.com/aws/aws-sdk-go v1.44.122
