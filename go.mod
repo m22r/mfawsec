@@ -10,6 +10,6 @@ require (
 	github.com/spf13/cobra v1.6.1
 	github.com/spf13/viper v1.4.0
 	github.com/ugorji/go/codec v0.0.0-20181204163529-d75b2dcb6bc8 // indirect
-	gopkg.in/ini.v1 v1.51.0
+	gopkg.in/ini.v1 v1.67.0
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
