@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/aws/aws-sdk-go v1.44.236
-	github.com/sirupsen/logrus v1.9.0
+	github.com/sirupsen/logrus v1.9.3
 	github.com/spf13/cobra v1.6.1
 	github.com/spf13/viper v1.15.0
 	gopkg.in/ini.v1 v1.67.0
