@@ -3,7 +3,7 @@ module github.com/m22r/mfawsec
 go 1.19
 
 require (
-	github.com/aws/aws-sdk-go v1.44.236
+	github.com/aws/aws-sdk-go v1.44.325
 	github.com/sirupsen/logrus v1.9.3
 	github.com/spf13/cobra v1.6.1
 	github.com/spf13/viper v1.16.0
