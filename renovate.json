@@ -8,4 +8,17 @@
     "every weekend"
   ],
   "commitMessagePrefix": "fix(renovate): "
+  "packageRules": [
+    {
+      "matchPackagePatterns": ["*"],
+      "automerge": true,
+      "platformAutomerge": true
+    }
+  ],
+  "lockFileMaintenance": {
+    "enabled": true,
+    "automerge": true,
+    "automergeType": "pr",
+    "platformAutomerge": true
+  }
 }
