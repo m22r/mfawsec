@@ -7,7 +7,7 @@
   "schedule": [
     "every weekend"
   ],
-  "commitMessagePrefix": "fix(renovate): "
+  "commitMessagePrefix": "fix(renovate): ",
   "packageRules": [
     {
       "matchPackagePatterns": ["*"],
