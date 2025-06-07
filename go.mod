@@ -2,7 +2,7 @@ module github.com/m22r/mfawsec
 
 go 1.21.0
 
-toolchain go1.24.3
+toolchain go1.24.4
 
 require (
 	github.com/aws/aws-sdk-go v1.55.7
