@@ -6,7 +6,7 @@ toolchain go1.25.6
 
 require (
 	github.com/aws/aws-sdk-go v1.55.8
-	github.com/sirupsen/logrus v1.9.3
+	github.com/sirupsen/logrus v1.9.4
 	github.com/spf13/cobra v1.10.2
 	github.com/spf13/viper v1.21.0
 	gopkg.in/ini.v1 v1.67.1
